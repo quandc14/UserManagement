@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "DƯƠNG CÔNG QUÂN",
+        "tel": "0355050831",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Cristiano ronaldo",
+        "tel": "0564866831",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Leonel Messi",
+        "tel": "56481325125",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Neymar",
+        "tel": "0123654888",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "w.sahla",
+        "tel": "0123456789",
+        "permission": 2
+    }
+    
+]
